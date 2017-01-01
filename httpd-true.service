@@ -1,8 +1,9 @@
 [Unit]
-Description=Httpd true 
+Description=Httpd true
 
 [Service]
-ExecStart=/usr/local/bin/httpd-true
-User=subsonic
+ExecStart=/opt/arch32/systemd-socketactivation/httpd-true
+#ExecStart=/var/opt/quixote/quixote/server/simple_server.py
+#User=subsonic
 
 PrivateTmp=yes

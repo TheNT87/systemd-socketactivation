@@ -1,0 +1,28 @@
+{
+  "name": "socket-activated",
+  "version": "0.1.0",
+  "description": "Socket activated quixote http server",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/TheNT87/quixote.git"
+  },
+  "keywords": [
+    "socket",
+    "activated",
+    "web-app",
+    "npm",
+    "python",
+    "cloud",
+    "broadwayd"
+  ],
+  "author": "Ante Pavic <nt@eigh.tk>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://gitlab.com/TheNT87/quixote/issues"
+  },
+  "homepage": "https://gitlab.com/TheNT87/quixote#README"
+}
